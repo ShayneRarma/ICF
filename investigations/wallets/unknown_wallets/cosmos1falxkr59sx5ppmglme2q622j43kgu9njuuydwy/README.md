@@ -11,7 +11,9 @@ is **8n8n an early AiB contributor?)
 * cosmos1mujqa52fnxhhpjegx6kr8pgjqqw3jyk43j6eyv (Informal?)
 
 **SENDS TO**
-* cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5 (Kraken?)
+* cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5 - Kraken #01
+* ![image](https://github.com/gaiaus/ICF/assets/34254288/1636ecae-31a0-45d0-aabe-fb8684242e4b)
+
 
 
 
